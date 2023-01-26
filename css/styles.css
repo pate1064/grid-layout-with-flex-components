@@ -43,7 +43,7 @@ body {
 
 .emojis {
     display: grid;
-    grid-template-columns: repeat(2, 417px);
+    grid-template-columns: repeat(2, 419px);
     gap: 16px;
 }
 
