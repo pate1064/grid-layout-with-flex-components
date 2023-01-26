@@ -1,4 +1,6 @@
-
+html, body {
+  height: 100%;
+}
 /* start of html design */
 html {
     display: table;
